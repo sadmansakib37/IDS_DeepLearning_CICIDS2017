@@ -37,6 +37,12 @@ Intrusion Detection Systems (IDS) are vital for detecting and mitigating real-ti
 - F1 Score
 - Training Time
 
+## 📘 Notebook
+
+The full code—including preprocessing, skewness correction, deep learning model training, and evaluation—is available in:
+
+📄 [`notebook/deep_learning_ids_cicids2017.ipynb`](notebook/deep_learning_ids_cicids2017.ipynb)
+
 ## 📎 Paper
 
 You can find the full PDF of the paper in this repository: [`Paper.pdf`](./Paper.pdf)
