@@ -39,7 +39,7 @@ Intrusion Detection Systems (IDS) are vital for detecting and mitigating real-ti
 
 ## 📘 Notebook
 
-The full code—including preprocessing, skewness correction, deep learning model training, and evaluation—is available in:
+The full code—including preprocessing, skewness correction, deep learning model training and evaluation is available in:
 
 📄 [`notebook/deep_learning_ids_cicids2017.ipynb`](notebook/deep_learning_ids_cicids2017.ipynb)
 
@@ -53,3 +53,8 @@ Md. Sadman Sakib
 Department of ECE, KUET  
 📧 sadmansakibrafi007@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/sadmansakib007) | [GitHub](https://github.com/sadmansakib37)
+
+Noshin Tabassum  
+Department of ECE, KUET  
+📧 tnoshin36@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/noshin-tabassum-ane36) | [GitHub](https://github.com/noshin36)
